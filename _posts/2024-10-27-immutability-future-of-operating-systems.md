@@ -8,11 +8,13 @@ image:
     alt: An abstract render of a floating icosahedron
 ---
 
+# Immutability: the future of operating systems?
+
 A recent trend in the design of operating systems has been the emergence of so-called “immutable” operating systems. They sometimes go by the names “image-based” or “atomic” operating systems but they all have the same goal: to have an operating system (OS) that is never in a broken, unbootable state. And they accomplish this goal well, because I’ve been using an immutable Linux-based OS, Fedora Silverblue, for the last five months as an experiment and I’d like to share my findings. However, to be able to properly understand the purpose of immutable operating systems, we first need to start by looking at the drawbacks of the traditional OS model.
 
-# Traditional operating systems
+## Traditional operating systems
 
-## Updates
+### Updates
 
 In traditional operating systems, when the system is being updated, a patch which contains the files that need to be changed is downloaded[^1] from the manufacturer’s website. The system is then rebooted into “update mode”: an alternative, small environment where the entire system is usually loaded into RAM instead of running off the disk[^2]. This now means that every aspect of the operating system can be updated – even the kernel – since the “update mode” environment is running from RAM. Once the patches have been applied, the system is rebooted back into “normal mode”.
 
@@ -22,13 +24,13 @@ However, there are a few problems with this. Imagine that the system lost power 
 
 [^2]: I am very much simplifying here. Modern operating systems use a variety of different mechanisms for this and it can also depend on what is being updated. This would usually only be done when updating key processes such as the kernel. When updating something that isn’t as important, the update is usually applied while the system is in “normal mode” and the process is restarted afterwards, avoiding a reboot. In some Linux distributions such as SUSE, some parts of the kernel can be updated whilst the system is running using a process called ‘live patching’.
 
-## Installing/uninstalling software
+### Installing/uninstalling software
 
 Let’s say you are trying to install a program such as Firefox using Ubuntu, a traditional Debian-based Linux distribution. You would run something like `sudo apt-get install firefox` which would download Firefox and its dependencies and install all of it onto your system. Now imagine that the configuration for one of the dependencies for Firefox was corrupted and is configured so that it required a critical part of your system to be uninstalled. You would end up with an unbootable system in this case.
 
 In addition, sometimes programs can leave small files lying around in your system folders after uninstallation. For example, when you uninstall a program on Windows, you may have noticed that sometimes some traces such as its folder under `C:\Program Files\` or its registry changes still remain, cluttering up your system, taking up space and sometimes even degrading performance.
 
-# Immutable operating systems
+## Immutable operating systems
 
 > [!NOTE]  
 > I will be mainly focusing on Fedora Silverblue[^3] in this section, an immutable version of Fedora Linux since it is one of the most widely used atomic Linux distributions. It also is the operating system I’ve been using for the last five months and therefore have the most experience with, as I have said in the introduction. However, there are other immutable operating systems too, such as Vanilla OS (Debian-based) and blendOS (Arch-based). NixOS is outside the scope of this since it takes a slightly different approach to immutability.
@@ -55,12 +57,12 @@ So how do we install programs? This is done through a process called “layering
 
 [^5]: If you aren’t updating the kernel, you don’t even need to restart. You can simply run `sudo rpm-ostree apply-live` or an equivalent command to do an in-place application of the update. You can also use this command to avoid restarting when you install a program. The explanation of how that works is outside of the scope of this footnote.
 
-## Downsides of immutable operating systems
+### Downsides of immutable operating systems
 
 A downside of this is that layering packages slows down system updates since each package adds an additional step, therefore layering isn’t recommended unless you have to. Instead, alternative formats such as Flatpaks are used, which is a common format used for Linux applications where programs are installed in a sandboxed environment. Alternatively, programs can be installed in a container tool such as Distrobox, which seamlessly integrates a container of your preferred Linux distribution into the system.
 
 Another downside is that since the core operating system is read-only, this can break compatibility with programs that need to modify the core files. Luckily, these programs are extremely rare and you can usually install them in container tools like Distrobox.
 
-# My experience and conclusion
+## My experience and conclusion
 
 Over my five months of using an immutable Linux distribution, the main difficulty I’ve had was just getting used to a new way of installing programs and modifying system files. Even then, it only took me a few weeks to get used to it and I didn’t have much difficulty afterwards thanks to the ever-growing community and documentation around Silverblue that allowed me to easily find ways around any issues I encountered. Overall, it has been the most stable OS experience I’ve ever had by far.
