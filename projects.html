@@ -1,0 +1,25 @@
+---
+layout: base
+menu_title: Projects
+---
+
+<h1>{{ page.menu_title }}</h1>
+
+{%- if site.projects.size == 0 -%}
+    <p>No projects yet :(</p>
+{%- endif -%}
+
+<table>
+{%- for project in site.projects -%}
+    <tr>
+        <td><strong>Title</strong></td>
+        <td><strong>Published</strong></td>
+        <td><strong>Updated</strong></td>
+    </tr>
+    <tr>
+        <td><strong>{{ project.title }}</strong>&ThickSpace;&ThickSpace;</td>
+        <td>{{ project.date | date: "%b %-d, %Y" }}</td>
+        <td>{{ project.updated | date: "%b %-d, %Y" }}</td>
+    </tr>
+{%- endfor -%}
+</table>

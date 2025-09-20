@@ -1,0 +1,14 @@
+---
+layout: base
+menu_title: Posts
+---
+
+<h1>{{ page.menu_title }}</h1>
+
+{%- if posts.size == 0 -%}
+    <p>No posts yet :(</p>
+{%- endif -%}
+
+{%- for post in site.posts -%}
+    <p>{{ post.title }}</p>
+{%- endfor -%}
