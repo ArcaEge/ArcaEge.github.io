@@ -1,13 +1,13 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <!-- Hi :D -->
+      <!-- Hi :D -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Arca's site</title>
     {%- if page.requires_syntax_highlighting -%}
       <!-- Tiny bit of CSS for syntax highlighting, only loaded because this specific page has syntax highlighted code -->
-      <link rel="stylesheet" href="{% link assets/syntax-highlight.css %}"/>
+      <link rel="stylesheet" href="{% link assets/syntax-highlight.css %}" />
     {%- endif -%}
 
     {%- feed_meta -%}
@@ -29,7 +29,7 @@
           [ Projects ]
         {%- else -%}
           [
-            <a href="{% link projects.html %}">Projects</a>
+          <a href="{% link projects.html %}">Projects</a>
           ]
         {%- endif -%}
         &VeryThinSpace;
@@ -37,7 +37,7 @@
           [ Posts ]
         {%- else -%}
           [
-            <a href="{% link posts.html %}">Posts</a>
+          <a href="{% link posts.html %}">Posts</a>
           ]
         {%- endif -%}
         &VeryThinSpace;
@@ -50,17 +50,18 @@
         {%- endif -%}
       </p>
     </header>
+    <hr>
 
     <main>{{ content }}</main>
 
+    <hr>
     <footer>
-      <br>
       <small>The lack of CSS is intentional.<br>Best viewed in Firefox.</small>
       <br>
-      {% comment %} <a href="https://kernel.org"><img src="{% link assets/images/buttons/penguin.gif %}" height="31"/></a>
-      <a href="https://fedoraproject.org"><img src="{% link assets/images/buttons/poweredbyfedora.gif %}"/></a>
-      <img src="{% link assets/images/buttons/aperture_labs.jpg %}"/>
-      <a href="https://www.firefox.com"><img src="{% link assets/images/buttons/firefox_compatible.gif %}"/></a> {% endcomment %}
+      <a href="https://kernel.org"><img src="{% link assets/images/buttons/penguin.gif %}" height="31" /></a>
+      <a href="https://fedoraproject.org"><img src="{% link assets/images/buttons/poweredbyfedora.gif %}" /></a>
+      <img src="{% link assets/images/buttons/aperture_labs.jpg %}" />
+      <a href="https://www.firefox.com"><img src="{% link assets/images/buttons/firefox_compatible.gif %}" /></a>
     </footer>
   </body>
 </html>

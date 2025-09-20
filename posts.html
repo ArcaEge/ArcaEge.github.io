@@ -6,9 +6,27 @@ menu_title: Posts
 <h1>{{ page.menu_title }}</h1>
 
 {%- if posts.size == 0 -%}
-    <p>No posts yet :(</p>
+  <p>No posts yet :(</p>
 {%- endif -%}
 
-{%- for post in site.posts -%}
-    <p>{{ post.title }}</p>
+{% assign posts = site.posts | sort: "date" | reverse %}
+
+{%- for post in posts -%}
+  <div>
+    <h2>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </h2>
+    {%- if project.description -%}
+      <p>{{ post.description | newline_to_br }}</p>
+    {%- endif -%}
+    {%- if post.date -%}
+      Published {{ post.date | date: "%b %-d, %Y" }}
+    {%- endif -%}
+    {%- if post.date and post.updated -%}
+      &ThickSpace;•&ThickSpace;
+    {%- endif -%}
+    {%- if post.updated -%}
+      Updated {{ post.updated | date: "%b %-d, %Y" }}
+    {%- endif -%}
+  </div>
 {%- endfor -%}

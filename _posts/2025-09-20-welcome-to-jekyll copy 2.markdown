@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "aWelcome to Jekyll!"
 categories:
 date: 2020-10-10
 ---
