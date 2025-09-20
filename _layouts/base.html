@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arca's site</title>
+
+    {%- feed_meta -%}
+  </head>
+
+  <body>
+    <header>
+      <p>
+        <strong>Arca's site</strong>&ThickSpace;
+        {%- if page.menu_title == 'Home' -%}
+          [ Home ]
+        {%- else -%}
+          [
+          <a href="/">Home</a>
+          ]
+        {%- endif -%}
+        &VeryThinSpace;
+        {%- if page.menu_title == 'Projects' -%}
+          [ Projects ]
+        {%- else -%}
+          [
+            <a href="#">Projects</a>
+          ]
+        {%- endif -%}
+        &VeryThinSpace;
+        {%- if page.menu_title == 'Posts' -%}
+          [ Posts ]
+        {%- else -%}
+          [
+            <a href="#">Posts</a>
+          ]
+        {%- endif -%}
+        &VeryThinSpace;
+        {%- if page.menu_title == 'About' -%}
+          [ About ]
+        {%- else -%}
+          [
+          <a href="/about.html">About</a>
+          ]
+        {%- endif -%}
+      </p>
+    </header>
+
+    <main>{{ content }}</main>
+
+    <footer>
+      <small>The lack of CSS is intentional. Best viewed in Firefox.</small>
+    </footer>
+  </body>
+</html>
