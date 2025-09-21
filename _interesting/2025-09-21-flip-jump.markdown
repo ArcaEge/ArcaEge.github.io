@@ -1,0 +1,7 @@
+---
+layout: interesting
+title: flip-jump
+source: https://github.com/tomhea/flip-jump
+description: |
+    Single-instruction programming language
+---
