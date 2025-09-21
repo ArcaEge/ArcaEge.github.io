@@ -1,0 +1,14 @@
+---
+layout: project
+title: This website!
+description: |
+    Built on Jekyll with a custom HTML-only theme.
+---
+
+Rewrite of this website! Hosted on GitHub pages because it was free. Whilst the aim was to use no CSS, I did use a tiny amount of it for code syntax highlighting but it's only loaded if the current page has syntax highlighted code.
+
+Built for Hack Club's Summer of Making event.
+
+### Links
+
+- [GitHub repository](https://github.com/ArcaEge/ArcaEge.github.io)

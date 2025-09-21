@@ -1,0 +1,14 @@
+---
+layout: project
+title: flappy
+description: |
+    Flappy bird on a Pi Pico, written in C
+---
+
+Flappy bird on a Pi Pico, built with the Pico SDK without any other dependencies
+
+Built for Hack Club's Summer of Making event, it even got featured on Hack Club's weekly newsletter!
+
+### Links
+
+- [GitHub repository](https://github.com/ArcaEge/flappy)

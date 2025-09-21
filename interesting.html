@@ -1,0 +1,30 @@
+---
+layout: base
+menu_title: Interesting things
+---
+
+<h1>{{ page.menu_title }}</h1>
+
+<p>A collection of interesting things from across the internet.</p>
+<p>
+  <a href="{% link feed/interesting.xml %}">Atom feed version of this page</a>
+</p>
+
+{%- if site.interesting.size == 0 -%}
+  {% comment %} This is definitely how English works {% endcomment %}
+  <p>No interestings yet :(</p>
+{%- endif -%}
+
+{% assign interestings = site.interesting | sort: "date" | reverse %}
+
+{%- for interesting in interestings -%}
+  <div>
+    <h2>
+      <a href="{{ interesting.source }}">{{ interesting.title }}</a>
+    </h2>
+    <p>
+      [&ThinSpace;<em>{{ interesting.date | date: "%b %-d, %Y" }}</em>&ThinSpace;]
+    </p>
+    {{ interesting.description | newline_to_br | markdownify }}
+  </div>
+{%- endfor -%}
