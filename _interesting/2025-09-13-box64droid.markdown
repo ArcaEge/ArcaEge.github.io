@@ -1,0 +1,7 @@
+---
+layout: interesting
+title: Box64Droid
+source: https://github.com/Ilya114/Box64Droid
+description: |
+    Run x86_64 programs on an Android phone. Even has GPU support so running Steam games might be possible!
+---

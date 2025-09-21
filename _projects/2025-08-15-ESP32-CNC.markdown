@@ -1,0 +1,26 @@
+---
+layout: project
+title: ESP32-CNC
+description: |
+    An ESP32-based CNC router/3D printer controller board designed for FluidNC
+---
+
+A controller board for a CNC machine I'm planning to build sometime in the future. Features:
+
+- 4 DRV8825 stepper motor drivers capable of up to 2.5A 24V each (with the ability to set the maximum current)
+- 4 high-current MOSFETs, up to 30A at 24V per MOSFET, designed for controlling spindles or hotends
+- 8 switch connections (7 general purpose/limit switches and 1 emergency stop, though this can be used as a general purpose switch too)
+- Ability to configure microstepping using DIP switches
+- 4 WS2812B addressable RGB LEDs for status indication
+- USB-C port
+
+I had to use a version of FluidNC which is currently pre-release, as the ESP32-S3 isn't currently supported in a stable release.
+
+Designed in EasyEDA because this was made through a Hack Club event ([Silicon!](https://silicon.hackclub.dev/)) which was sponsored by EasyEDA.
+
+<img alt="Image of PCB" src="{% link assets/images/projects/esp32-cnc.webp %}" height="300"/>
+
+### Links
+
+- [GitHub repo](https://github.com/ArcaEge/ESP32-CNC)
+- [OSHWLab URL](https://oshwlab.com/arcaegecengiz/picostep)

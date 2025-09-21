@@ -7,7 +7,7 @@ menu_title: Projects
 
 <p>Here are some of the janky projects I've done. Most of my projects aren't here, only the more significant ones (I also have a habit of not finishing projects).</p>
 <p>
-  <a href="{% link feed/projects.xml %}">Atom feed of projects</a>
+  <a href="{% link feed/projects.xml %}">Atom feed version of this page</a>
 </p>
 
 {%- if site.projects.size == 0 -%}
@@ -24,7 +24,7 @@ menu_title: Projects
     <p>[&ThinSpace;<em>{{ project.date | date: "%b %-d, %Y" }}</em>&ThinSpace;]</p>
 
     {%- if project.description -%}
-      <p>{{ project.description | newline_to_br }}</p>
+      <p>{{ project.description | newline_to_br | markdownify }}</p>
     {%- endif -%}
   </div>
 {%- endfor -%}

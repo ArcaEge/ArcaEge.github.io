@@ -25,7 +25,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 feed:
-  posts_limit: 99999
+  posts_limit: 99999999 # Probably a bad idea
   collections:
     - projects
     - interesting

@@ -1,0 +1,7 @@
+{
+    "no-inline-html": {
+        "allowed_elements": ["iframe", "img"]
+    },
+    "line-length": false,
+    "single-title": false
+}

@@ -7,11 +7,11 @@ menu_title: Interesting things
 
 <p>A collection of interesting things from across the internet.</p>
 <p>
-  <a href="{% link feed/interesting.xml %}">Atom feed of interesting things</a>
+  <a href="{% link feed/interesting.xml %}">Atom feed version of this page</a>
 </p>
 
 {%- if site.interesting.size == 0 -%}
-  {% comment %} This is definitely how English grammar works {% endcomment %}
+  {% comment %} This is definitely how English works {% endcomment %}
   <p>No interestings yet :(</p>
 {%- endif -%}
 
@@ -22,10 +22,9 @@ menu_title: Interesting things
     <h2>
       <a href="{{ interesting.source }}">{{ interesting.title }}</a>
     </h2>
-    <p>[&ThinSpace;<em>{{ interesting.date | date: "%b %-d, %Y" }}</em>&ThinSpace;]</p>
-
-    {%- if interesting.description -%}
-      <p>{{ interesting.description | newline_to_br }}</p>
-    {%- endif -%}
+    <p>
+      [&ThinSpace;<em>{{ interesting.date | date: "%b %-d, %Y" }}</em>&ThinSpace;]
+    </p>
+    {{ interesting.description | newline_to_br | markdownify }}
   </div>
 {%- endfor -%}

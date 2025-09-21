@@ -16,7 +16,7 @@ Links to my stuff:
 
 # About this site
 
-Hosted on GitHub Pages, built with Jekyll with a custom theme, source code is available [here](https://github.com/ArcaEge/ArcaEge.github.io). The site doesn't contain any CSS/Javascript because:
+Hosted on GitHub Pages, built with Jekyll with a custom theme, [source code is available here](https://github.com/ArcaEge/ArcaEge.github.io). The site doesn't contain any CSS/Javascript because:
 
 - ~~I couldn't be bothered~~
 - We don't need more 60MB websites that take two minutes to load.

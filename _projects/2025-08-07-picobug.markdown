@@ -1,0 +1,15 @@
+---
+layout: project
+title: Picobug
+description: |
+    An RP2040-based devboard with an integrated picoprobe debugger
+---
+
+RP2040 devboard that is pin-compatible with the original Pico, but comes with a debugger which you can snap off and use as a separate Pico. Comes with a microSD card reader too!
+
+Designed in EasyEDA because this was made through a Hack Club event ([Silicon!](https://silicon.hackclub.dev/)) which was sponsored by EasyEDA.
+
+### Links
+
+- [GitHub repository](https://github.com/ArcaEge/picobug)
+- [OSHWLAb page](https://oshwlab.com/arcaegecengiz/picobug)

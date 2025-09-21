@@ -7,7 +7,7 @@ menu_title: Posts
 
 <p>A place where I occasionally write about things.</p>
 <p>
-  <a href="{% link feed.xml %}">Atom feed of posts</a>
+  <a href="{% link feed.xml %}">Atom feed version of this page</a>
 </p>
 
 {%- if posts.size == 0 -%}
@@ -21,9 +21,6 @@ menu_title: Posts
     <h2>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </h2>
-    {%- if post.description -%}
-      <p>{{ post.description | newline_to_br }}</p>
-    {%- endif -%}
     <p>
       [&ThinSpace;published
       <em>{{ post.date | date: "%b %-d, %Y" }}</em>&ThinSpace;]&ThickSpace;
@@ -33,5 +30,8 @@ menu_title: Posts
         <em>{{ post.updated | date: "%b %-d, %Y" }}</em>&ThinSpace;]
       {%- endif -%}
     </p>
+    {%- if post.summary -%}
+      <p>{{ post.summary | newline_to_br | markdownify }}</p>
+    {%- endif -%}
   </div>
 {%- endfor -%}

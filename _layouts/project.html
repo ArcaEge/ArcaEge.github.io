@@ -6,12 +6,9 @@ layout: base
   <h1>{{ page.title }}</h1>
 {%- endif -%}
 
+<p>{{ page.description | markdownify }}</p>
+
 <p>
-  [&ThinSpace;<em>{{ page.date | date: "%b %-d, %Y" }}</em>&ThinSpace;]
-</p>
+  [&ThinSpace;<em>{{ page.date | date: "%b %-d, %Y" }}</em>&ThinSpace;]</p>
 
-<h2>Brief description</h2>
-<p>{{ page.description }}</p>
-
-<h2>Slightly less brief description</h2>
 {{ content }}
