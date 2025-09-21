@@ -5,6 +5,11 @@ menu_title: Posts
 
 <h1>{{ page.menu_title }}</h1>
 
+<p>A place where I occasionally write about things.</p>
+<p>
+  <a href="{% link feed.xml %}">Atom feed of posts</a>
+</p>
+
 {%- if posts.size == 0 -%}
   <p>No posts yet :(</p>
 {%- endif -%}
@@ -16,17 +21,17 @@ menu_title: Posts
     <h2>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </h2>
-    {%- if project.description -%}
+    {%- if post.description -%}
       <p>{{ post.description | newline_to_br }}</p>
     {%- endif -%}
-    {%- if post.date -%}
-      Published {{ post.date | date: "%b %-d, %Y" }}
-    {%- endif -%}
-    {%- if post.date and post.updated -%}
-      &ThickSpace;•&ThickSpace;
-    {%- endif -%}
-    {%- if post.updated -%}
-      Updated {{ post.updated | date: "%b %-d, %Y" }}
-    {%- endif -%}
+    <p>
+      [&ThinSpace;published
+      <em>{{ post.date | date: "%b %-d, %Y" }}</em>&ThinSpace;]&ThickSpace;
+
+      {%- if post.updated -%}
+        [&ThinSpace;updated
+        <em>{{ post.updated | date: "%b %-d, %Y" }}</em>&ThinSpace;]
+      {%- endif -%}
+    </p>
   </div>
 {%- endfor -%}

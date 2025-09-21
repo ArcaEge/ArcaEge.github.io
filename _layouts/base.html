@@ -41,6 +41,14 @@
           ]
         {%- endif -%}
         &VeryThinSpace;
+        {%- if page.menu_title == 'Interesting things' -%}
+          [ Interesting things ]
+        {%- else -%}
+          [
+          <a href="{% link interesting.html %}">Interesting things</a>
+          ]
+        {%- endif -%}
+        &VeryThinSpace;
         {%- if page.menu_title == 'About' -%}
           [ About ]
         {%- else -%}

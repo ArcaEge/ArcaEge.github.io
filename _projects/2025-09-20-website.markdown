@@ -1,0 +1,12 @@
+---
+layout: project
+title: This website!
+description: |
+    Built on Jekyll with a custom HTML-only theme.
+---
+
+Hosted on GitHub pages because it was free. I did use a tiny amount of CSS but that's for code syntax highlighting and is only loaded if the page has syntax highlighted code.
+
+### Links
+
+- [GitHub repository](https://github.com/ArcaEge/ArcaEge.github.io)

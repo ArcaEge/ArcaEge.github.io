@@ -5,7 +5,10 @@ menu_title: Projects
 
 <h1>{{ page.menu_title }}</h1>
 
-<p>A list of some of the projects I've done. Most of the projects I've done aren't here, only the more significant ones.</p>
+<p>Here are some of the janky projects I've done. Most of my projects aren't here, only the more significant ones (I also have a habit of not finishing projects).</p>
+<p>
+  <a href="{% link feed/projects.xml %}">Atom feed of projects</a>
+</p>
 
 {%- if site.projects.size == 0 -%}
   <p>No projects yet :(</p>
@@ -18,11 +21,10 @@ menu_title: Projects
     <h2>
       <a href="{{ project.url }}">{{ project.title }}</a>
     </h2>
+    <p>[&ThinSpace;<em>{{ project.date | date: "%b %-d, %Y" }}</em>&ThinSpace;]</p>
+
     {%- if project.description -%}
       <p>{{ project.description | newline_to_br }}</p>
-    {%- endif -%}
-    {%- if project.date -%}
-      Published {{ project.date | date: "%b %-d, %Y" }}
     {%- endif -%}
   </div>
 {%- endfor -%}
