@@ -13,4 +13,4 @@ I went through many many iterations of it and the entire project took around two
 
 ### Links
 
-- [It's on Hackaday!](hackaday.com/2023/03/19/the-50-pen-plotter/)
+- [It's on Hackaday!](https://hackaday.com/2023/03/19/the-50-pen-plotter/)

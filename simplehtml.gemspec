@@ -20,4 +20,5 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency "kramdown-parser-gfm", "~> 1.1"
   spec.add_runtime_dependency "bigdecimal"
   spec.add_runtime_dependency "base64"
+  spec.add_runtime_dependency "html-proofer"
 end
