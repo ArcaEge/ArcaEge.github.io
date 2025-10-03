@@ -1,0 +1,7 @@
+---
+layout: interesting
+title: obamify
+source: https://github.com/Spu7Nix/obamify
+description: |
+    Turn any image into Obama
+---
