@@ -1,0 +1,15 @@
+---
+layout: project
+title: coin3d
+description: |
+    coin go spinny spinny | GPU-rendered spinning coin using sokol with WebGL written in C++
+---
+
+Simple perspective-projection spinning coin, WebGL-accelerated.
+
+Built for Hack Club's Siege event.
+
+### Links
+
+- [GitHub repository](https://github.com/ArcaEge/coin3d)
+- [Demo link](https://arcaege.dev/coin3d/)
