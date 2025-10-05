@@ -2,7 +2,7 @@
 layout: project
 title: coin3d
 description: |
-    coin go spinny spinny | GPU-rendered spinning coin using sokol with WebGL written in C++
+    coin go spinny spinny - GPU-rendered spinning coin using sokol with WebGL written in C++
 ---
 
 Simple perspective-projection spinning coin, WebGL-accelerated.
