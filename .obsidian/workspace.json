@@ -179,8 +179,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a6546819e1810acb",
+  "active": "aacd20e1d065b8cb",
   "lastOpenFiles": [
+    "index.md",
+    "about.md",
     "_projects/2025-10-05-coin3d.md",
     "_projects/2025-09-20-website.md",
     "_projects/2025-09-10-embedded-engine.md",
@@ -204,8 +206,6 @@
     "_interesting/2025-09-02-droposs.md",
     "_interesting/2025-08-30-android-sideloading-removal.md",
     "_interesting/2025-08-16-radix-sort.md",
-    "_interesting/2025-08-15-dirtypcbs.md",
-    "_interesting/2025-08-10-consumer-rights-wiki.md",
-    "_interesting/s.md"
+    "_interesting/2025-08-15-dirtypcbs.md"
   ]
 }
