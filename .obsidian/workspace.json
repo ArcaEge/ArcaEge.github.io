@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_interesting/2025-11-09-tabloid.md",
+                "file": "_posts/2025-09-21-ai-problems-list.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-09-tabloid"
+              "title": "2025-09-21-ai-problems-list"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_interesting/2025-11-09-tabloid.md",
+                "file": "_posts/2025-09-21-ai-problems-list.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-11-09-tabloid"
+              "title": "Outline of 2025-09-21-ai-problems-list"
             }
           }
         ],
@@ -186,8 +186,8 @@
   },
   "active": "4d17f57f6fccdb5a",
   "lastOpenFiles": [
-    "_interesting/2025-11-05-glados-tts.md",
     "_interesting/2025-11-09-tabloid.md",
+    "_interesting/2025-11-05-glados-tts.md",
     "Clippings/OSS VHDL and Verilog Development on Tang Nano FPGAs.md",
     "Clippings",
     "_interesting/2025-10-31-minecrafthdl.md",

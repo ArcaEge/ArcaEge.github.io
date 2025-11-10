@@ -11,3 +11,5 @@ This is less of a post and more of a growing list of frustrations which I add to
 - [AI](https://www.youtube.com/watch?v=6n2eDcRjSsk) [slop](https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/) [security](https://www.youtube.com/watch?v=xy-u1evNmVo) [reports](https://www.youtube.com/watch?v=8w6r4MKSe4I)
 - AI web scraping wrecking everything
 - [AI junk infecting the internet, web results have become unusable](https://github.com/tailwindlabs/tailwindcss/discussions/14763)
+- [Collapse of trust](https://arnon.dk/the-trust-collapse-infinite-ai-content-is-awful/): "the cost of verification exceeds the expected value of engagement"
+	- Barrier to entry can be almost zero, not the greatest thing in some cases
