@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7525a992dc6d0b0d",
+        "id": "f616582deae57ba1",
         "type": "tabs",
         "children": [
           {
-            "id": "4d17f57f6fccdb5a",
+            "id": "f54af473a3b00d1f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2025-09-21-ai-problems-list.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-09-21-ai-problems-list"
+              "title": "New tab"
             }
           }
         ]
@@ -140,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2025-09-21-ai-problems-list.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-09-21-ai-problems-list"
+              "title": "Outline"
             }
           }
         ],
@@ -184,8 +179,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4d17f57f6fccdb5a",
+  "active": "f54af473a3b00d1f",
   "lastOpenFiles": [
+    "_interesting/2025-11-29-ISP-at-home.md",
     "_interesting/2025-11-09-tabloid.md",
     "_interesting/2025-11-05-glados-tts.md",
     "Clippings/OSS VHDL and Verilog Development on Tang Nano FPGAs.md",
@@ -211,7 +207,6 @@
     "_interesting/2025-09-19-cool-tesla-coil.md",
     "_interesting/2025-09-14-3D-printed-spherical-flexure-joint.md",
     "_interesting/2025-09-13-box64droid.md",
-    "_interesting/2025-09-10-gravity-basins.md",
-    "_interesting/2025-09-06-valve-time.md"
+    "_interesting/2025-09-10-gravity-basins.md"
   ]
 }
