@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_projects/2025-11-30-construct.md",
+                "file": "_interesting/2025-12-02-shopify-sales.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-30-construct"
+              "title": "2025-12-02-shopify-sales"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_projects/2025-11-30-construct.md",
+                "file": "_interesting/2025-12-02-shopify-sales.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-11-30-construct"
+              "title": "Outline of 2025-12-02-shopify-sales"
             }
           }
         ],
@@ -186,9 +186,10 @@
   },
   "active": "f54af473a3b00d1f",
   "lastOpenFiles": [
-    "_projects/2025-10-05-coin3d.md",
-    "_projects/2025-11-30-construct.md",
     "_interesting/2025-11-29-ISP-at-home.md",
+    "_interesting/2025-12-02-shopify-sales.md",
+    "_projects/2025-11-30-construct.md",
+    "_projects/2025-10-05-coin3d.md",
     "_interesting/2025-11-09-tabloid.md",
     "_interesting/2025-11-05-glados-tts.md",
     "Clippings/OSS VHDL and Verilog Development on Tang Nano FPGAs.md",
@@ -211,7 +212,6 @@
     "_interesting/2025-09-21-flip-jump.md",
     "_interesting/2025-09-20-single-instruction-cpu.md",
     "_interesting/2025-09-19-cool-tesla-coil.md",
-    "_interesting/2025-09-14-3D-printed-spherical-flexure-joint.md",
-    "_interesting/2025-09-13-box64droid.md"
+    "_interesting/2025-09-14-3D-printed-spherical-flexure-joint.md"
   ]
 }
