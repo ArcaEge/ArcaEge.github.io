@@ -9,7 +9,7 @@ A janky plotter I built mostly out of parts from B&Q, with a CoreXY motion syste
 
 I went through many many iterations of it and the entire project took around two to three months.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KlJWRQ5zkAk?si=1WORvUk9v-3Ie5KW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KlJWRQ5zkAk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Links
 

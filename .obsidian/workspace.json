@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_interesting/2025-12-02-shopify-sales.md",
-                "mode": "source",
+                "file": "_projects/2026-01-16-zvs-flyback.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-02-shopify-sales"
+              "title": "2026-01-16-zvs-flyback"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_interesting/2025-12-02-shopify-sales.md",
+                "file": "_projects/2026-01-16-zvs-flyback.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-12-02-shopify-sales"
+              "title": "Outline of 2026-01-16-zvs-flyback"
             }
           }
         ],
@@ -186,10 +186,20 @@
   },
   "active": "f54af473a3b00d1f",
   "lastOpenFiles": [
-    "_interesting/2025-11-29-ISP-at-home.md",
-    "_interesting/2025-12-02-shopify-sales.md",
+    "_projects/2023-10-1-pen-plotter.md",
     "_projects/2025-11-30-construct.md",
+    "_projects/2026-01-16-zvs-flyback.md",
+    "_projects/2025-08-15-ESP32-CNC.md",
+    "_projects/2025-09-10-embedded-engine.md",
+    "_projects/2025-09-20-website.md",
     "_projects/2025-10-05-coin3d.md",
+    "_projects/2025-06-30-day-progress.md",
+    "_projects/2025-06-30-flappy.md",
+    "_projects/2025-08-07-picobug.md",
+    "_interesting/2025-12-02-shopify-sales.md",
+    "_interesting/2025-12-27-overenginee-ring.md",
+    "_interesting/2025-12-27-cpu-land.md",
+    "_interesting/2025-11-29-ISP-at-home.md",
     "_interesting/2025-11-09-tabloid.md",
     "_interesting/2025-11-05-glados-tts.md",
     "Clippings/OSS VHDL and Verilog Development on Tang Nano FPGAs.md",
@@ -199,19 +209,9 @@
     "_interesting/2025-10-03-obamify.md",
     "index.md",
     "about.md",
-    "_projects/2025-09-20-website.md",
-    "_projects/2025-09-10-embedded-engine.md",
-    "_projects/2025-08-15-ESP32-CNC.md",
-    "_projects/2025-08-07-picobug.md",
-    "_projects/2025-06-30-flappy.md",
-    "_projects/2025-06-30-day-progress.md",
-    "_projects/2023-10-1-pen-plotter.md",
     "_projects/2020-03-17-coronavirus-counter.md",
     "_posts/2025-09-21-ai-problems-list.md",
     "_interesting/2025-09-27-4D-renderer.md",
-    "_interesting/2025-09-21-flip-jump.md",
-    "_interesting/2025-09-20-single-instruction-cpu.md",
-    "_interesting/2025-09-19-cool-tesla-coil.md",
-    "_interesting/2025-09-14-3D-printed-spherical-flexure-joint.md"
+    "_interesting/2025-09-21-flip-jump.md"
   ]
 }
