@@ -1,11 +1,11 @@
 ---
 layout: project
 title: Construct
-description: The website for a Hack Club event!
+description: The website for a Hack Club 3D printing event!
 ---
-The site and backend for Hack Club's new event launching on 15th December, where you make CAD projects for 45h and get an entirely free 3D printer in return.
+The site for an event I'm running with Hack Club, where you spend 40h making CAD projects and get a 3D printer in return! I'm one of the organisers for the event and was responsible for making the site.
 
-Built for Hack Club's Siege event.
+I used SvelteKit along with Drizzle for the site, worked pretty well in my opinion. Next time I'd probably use Rails though since it just speeds up the development process a lot, but I do like the flexibility Svelte gives.
 
 ### Links
 
