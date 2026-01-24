@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hc-magazine-2025.md",
+                "file": "_interesting/2025-1-24-kurrat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hc-magazine-2025"
+              "title": "2025-1-24-kurrat"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hc-magazine-2025.md",
+                "file": "_interesting/2025-1-24-kurrat.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of hc-magazine-2025"
+              "title": "Outline of 2025-1-24-kurrat"
             }
           }
         ],
@@ -186,8 +186,10 @@
   },
   "active": "f54af473a3b00d1f",
   "lastOpenFiles": [
-    "_projects/2025-06-30-flappy.md",
+    "_interesting/2025-12-27-overenginee-ring.md",
+    "_interesting/2025-1-24-kurrat.md",
     "hc-magazine-2025.md",
+    "_projects/2025-06-30-flappy.md",
     "_projects/2025-08-07-picobug.md",
     "index.md",
     "_projects/2026-01-16-zvs-flyback.md",
@@ -199,7 +201,6 @@
     "_projects/2025-10-05-coin3d.md",
     "_projects/2025-06-30-day-progress.md",
     "_interesting/2025-12-02-shopify-sales.md",
-    "_interesting/2025-12-27-overenginee-ring.md",
     "_interesting/2025-12-27-cpu-land.md",
     "_interesting/2025-11-29-ISP-at-home.md",
     "_interesting/2025-11-09-tabloid.md",
@@ -211,7 +212,6 @@
     "_interesting/2025-10-03-obamify.md",
     "about.md",
     "_projects/2020-03-17-coronavirus-counter.md",
-    "_posts/2025-09-21-ai-problems-list.md",
-    "_interesting/2025-09-27-4D-renderer.md"
+    "_posts/2025-09-21-ai-problems-list.md"
   ]
 }
