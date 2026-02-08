@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_interesting/2026-01-24-kurrat.md",
+                "file": "_interesting/2026-02-08-digital-iris.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-24-kurrat"
+              "title": "2026-02-08-digital-iris"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_interesting/2026-01-24-kurrat.md",
+                "file": "_interesting/2026-02-08-digital-iris.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-01-24-kurrat"
+              "title": "Outline of 2026-02-08-digital-iris"
             }
           }
         ],
@@ -186,8 +186,9 @@
   },
   "active": "f54af473a3b00d1f",
   "lastOpenFiles": [
-    "_interesting/2025-12-27-overenginee-ring.md",
     "_interesting/2026-01-24-kurrat.md",
+    "_interesting/2026-02-08-digital-iris.md",
+    "_interesting/2025-12-27-overenginee-ring.md",
     "hc-magazine-2025.md",
     "_projects/2025-06-30-flappy.md",
     "_projects/2025-08-07-picobug.md",
@@ -211,7 +212,6 @@
     "_interesting/2025-02-01-doompdf.md",
     "_interesting/2025-10-03-obamify.md",
     "about.md",
-    "_projects/2020-03-17-coronavirus-counter.md",
-    "_posts/2025-09-21-ai-problems-list.md"
+    "_projects/2020-03-17-coronavirus-counter.md"
   ]
 }
