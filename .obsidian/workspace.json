@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_interesting/2026-02-12-making-software.md",
+                "file": "_interesting/2026-02-18-learn-x-in-y-minutes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-12-making-software"
+              "title": "2026-02-18-learn-x-in-y-minutes"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_interesting/2026-02-12-making-software.md",
+                "file": "_interesting/2026-02-18-learn-x-in-y-minutes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-02-12-making-software"
+              "title": "Outline of 2026-02-18-learn-x-in-y-minutes"
             }
           }
         ],
@@ -186,8 +186,9 @@
   },
   "active": "a6546819e1810acb",
   "lastOpenFiles": [
-    "_interesting/2026-02-08-digital-iris.md",
     "_interesting/2026-02-12-making-software.md",
+    "_interesting/2026-02-18-learn-x-in-y-minutes.md",
+    "_interesting/2026-02-08-digital-iris.md",
     "_interesting/2026-01-24-kurrat.md",
     "_interesting/2025-12-27-overenginee-ring.md",
     "hc-magazine-2025.md",
@@ -211,7 +212,6 @@
     "Clippings",
     "_interesting/2025-10-31-minecrafthdl.md",
     "_interesting/2025-02-01-doompdf.md",
-    "_interesting/2025-10-03-obamify.md",
-    "about.md"
+    "_interesting/2025-10-03-obamify.md"
   ]
 }
