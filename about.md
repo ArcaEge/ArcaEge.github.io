@@ -12,14 +12,12 @@ Links to my stuff:
 
 - GitHub: [ArcaEge](https://github.com/ArcaEge)
 - YouTube: [Arca Ege Cengiz](https://www.youtube.com/channel/UC-2BC80rsHw898hD5V9flGQ)
-- Mastodon: [@arcaege](https://mastodon.social/@arcaege) (I don't really use this)
+- Mastodon: [@arcaege](https://mastodon.social/@arcaege) (I don't use this often)
+
+If you're on the Hack Club Slack, you can also DM me directly [here](https://hackclub.enterprise.slack.com/team/U09192704Q7)
 
 # About this site
 
-Hosted on GitHub Pages, built with Jekyll with a custom theme, [source code is available here](https://github.com/ArcaEge/ArcaEge.github.io). The site doesn't contain any CSS/Javascript because:
+Hosted on GitHub Pages, built with Jekyll with a HTML-only custom theme, [source code is available here](https://github.com/ArcaEge/ArcaEge.github.io).
 
-- ~~I couldn't be bothered~~
-- We don't need more 60MB websites that take two minutes to load.
-- Who needs CSS anyway, HTML is more than good enough.
-
-Inspired by [Zach Latta's website](https://zachlatta.com/).
+Inspired by [Zach Latta's site](https://zachlatta.com/).

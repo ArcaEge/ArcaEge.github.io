@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_interesting/2026-03-07-tesla-coil-lightning.md",
+                "file": "about.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-07-tesla-coil-lightning"
+              "title": "about"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_interesting/2026-03-07-tesla-coil-lightning.md",
+                "file": "about.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-03-07-tesla-coil-lightning"
+              "title": "Outline of about"
             }
           }
         ],
@@ -186,8 +186,10 @@
   },
   "active": "f54af473a3b00d1f",
   "lastOpenFiles": [
-    "_interesting/2026-02-18-learn-x-in-y-minutes.md",
+    "index.md",
+    "_interesting/2025-08-10-consumer-rights-wiki.md",
     "_interesting/2026-03-07-tesla-coil-lightning.md",
+    "_interesting/2026-02-18-learn-x-in-y-minutes.md",
     "_interesting/2026-02-12-making-software.md",
     "_interesting/2026-02-08-digital-iris.md",
     "_interesting/2026-01-24-kurrat.md",
@@ -195,7 +197,6 @@
     "hc-magazine-2025.md",
     "_projects/2025-06-30-flappy.md",
     "_projects/2025-08-07-picobug.md",
-    "index.md",
     "_projects/2026-01-16-zvs-flyback.md",
     "_projects/2023-10-1-pen-plotter.md",
     "_projects/2025-11-30-construct.md",
@@ -211,7 +212,6 @@
     "_interesting/2025-11-05-glados-tts.md",
     "Clippings/OSS VHDL and Verilog Development on Tang Nano FPGAs.md",
     "Clippings",
-    "_interesting/2025-10-31-minecrafthdl.md",
-    "_interesting/2025-02-01-doompdf.md"
+    "_interesting/2025-10-31-minecrafthdl.md"
   ]
 }

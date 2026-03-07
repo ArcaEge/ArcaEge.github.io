@@ -2,6 +2,5 @@
 layout: interesting
 title: Consumer Rights Wiki
 source: https://consumerrights.wiki
-description: |
-    Made by Louis Rossmann, site documenting how Black Mirror is slowly becoming real.
+description: The internet's largest dedicated repository of information on anti-consumer practices
 ---
