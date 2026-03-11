@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about.md",
+                "file": "_interesting/2026-03-07-tesla-coil-lightning 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "2026-03-07-tesla-coil-lightning 1"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "about.md",
+                "file": "_interesting/2026-03-07-tesla-coil-lightning 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of about"
+              "title": "Outline of 2026-03-07-tesla-coil-lightning 1"
             }
           }
         ],
@@ -184,11 +184,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f54af473a3b00d1f",
+  "active": "a6546819e1810acb",
   "lastOpenFiles": [
-    "index.md",
-    "_interesting/2025-08-10-consumer-rights-wiki.md",
     "_interesting/2026-03-07-tesla-coil-lightning.md",
+    "_interesting/2026-03-07-tesla-coil-lightning 1.md",
+    "index.md",
+    "about.md",
+    "_interesting/2025-08-10-consumer-rights-wiki.md",
     "_interesting/2026-02-18-learn-x-in-y-minutes.md",
     "_interesting/2026-02-12-making-software.md",
     "_interesting/2026-02-08-digital-iris.md",
@@ -210,8 +212,6 @@
     "_interesting/2025-11-29-ISP-at-home.md",
     "_interesting/2025-11-09-tabloid.md",
     "_interesting/2025-11-05-glados-tts.md",
-    "Clippings/OSS VHDL and Verilog Development on Tang Nano FPGAs.md",
-    "Clippings",
-    "_interesting/2025-10-31-minecrafthdl.md"
+    "Clippings"
   ]
 }
