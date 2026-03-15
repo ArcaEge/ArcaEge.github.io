@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_interesting/2026-03-11-lorentz-plasma-cannon.md",
+                "file": "_interesting/2026-03-11-trenchbroom.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-11-lorentz-plasma-cannon"
+              "title": "2026-03-11-trenchbroom"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_interesting/2026-03-11-lorentz-plasma-cannon.md",
+                "file": "_interesting/2026-03-11-trenchbroom.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-03-11-lorentz-plasma-cannon"
+              "title": "Outline of 2026-03-11-trenchbroom"
             }
           }
         ],
@@ -186,8 +186,9 @@
   },
   "active": "f54af473a3b00d1f",
   "lastOpenFiles": [
-    "_interesting/2026-03-11-how-did-i-get-here.md",
     "_interesting/2026-03-11-lorentz-plasma-cannon.md",
+    "_interesting/2026-03-11-trenchbroom.md",
+    "_interesting/2026-03-11-how-did-i-get-here.md",
     "_interesting/2026-03-07-tesla-coil-lightning.md",
     "index.md",
     "about.md",
@@ -211,7 +212,6 @@
     "_interesting/2025-12-02-shopify-sales.md",
     "_interesting/2025-12-27-cpu-land.md",
     "_interesting/2025-11-29-ISP-at-home.md",
-    "_interesting/2025-11-09-tabloid.md",
     "Clippings"
   ]
 }
