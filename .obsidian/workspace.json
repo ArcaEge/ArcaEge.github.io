@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_interesting/2026-03-11-trenchbroom.md",
+                "file": "_readinglist/2026-03-22-trenchbroom.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-11-trenchbroom"
+              "title": "2026-03-22-trenchbroom"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_interesting/2026-03-11-trenchbroom.md",
+                "file": "_readinglist/2026-03-22-trenchbroom.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-03-11-trenchbroom"
+              "title": "Outline of 2026-03-22-trenchbroom"
             }
           }
         ],
@@ -186,8 +186,20 @@
   },
   "active": "f54af473a3b00d1f",
   "lastOpenFiles": [
-    "_interesting/2026-03-11-lorentz-plasma-cannon.md",
+    "_site/readinglist/2026-03-22-trenchbroom.html",
+    "_site/readinglist/2026-03-11-trenchbroom.html",
+    "_site/readinglist",
+    "_site/feed/readinglist.xml",
+    "_site/readinglist.html",
+    "readinglist.html",
+    "_layouts/readinglist.html",
     "_interesting/2026-03-11-trenchbroom.md",
+    "_readinglist/2026-03-22-trenchbroom.md",
+    "_layouts/reading-list.html",
+    "_readinglist",
+    "_site/reading-list.html",
+    "_site/interesting 1.html",
+    "_interesting/2026-03-11-lorentz-plasma-cannon.md",
     "_interesting/2026-03-11-how-did-i-get-here.md",
     "_interesting/2026-03-07-tesla-coil-lightning.md",
     "index.md",
@@ -209,9 +221,6 @@
     "_projects/2025-09-20-website.md",
     "_projects/2025-10-05-coin3d.md",
     "_projects/2025-06-30-day-progress.md",
-    "_interesting/2025-12-02-shopify-sales.md",
-    "_interesting/2025-12-27-cpu-land.md",
-    "_interesting/2025-11-29-ISP-at-home.md",
-    "Clippings"
+    "_interesting/2025-12-02-shopify-sales.md"
   ]
 }

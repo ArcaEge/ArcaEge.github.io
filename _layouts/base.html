@@ -49,6 +49,14 @@
           ]
         {%- endif -%}
         &VeryThinSpace;
+        {%- if page.menu_title == 'Reading list' -%}
+          [ Reading list ]
+        {%- else -%}
+          [
+          <a href="{% link readinglist.html %}">Reading list</a>
+          ]
+        {%- endif -%}
+        &VeryThinSpace;
         {%- if page.menu_title == 'About' -%}
           [ About ]
         {%- else -%}

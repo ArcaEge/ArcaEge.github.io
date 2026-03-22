@@ -29,11 +29,14 @@ feed:
   collections:
     - projects
     - interesting
+    - readinglist
 
 collections:
   projects:
     output: true
   interesting:
+    output: true
+  readinglist:
     output: true
 
 # Build settings

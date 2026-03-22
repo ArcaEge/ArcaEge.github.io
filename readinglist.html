@@ -1,0 +1,26 @@
+---
+layout: base
+menu_title: Reading list
+---
+
+<h1>{{ page.menu_title }}</h1>
+
+<p>Some posts, blogs and articles worth reading.</p>
+<p>
+  <a href="{% link feed/readinglist.xml %}">Atom feed version of this page</a>
+</p>
+
+{%- if site.readinglist.size == 0 -%}
+  <p>No posts yet :(</p>
+{%- endif -%}
+
+{% assign reading_list = site.readinglist | sort: "date" | reverse %}
+
+<ul>
+  {%- for article in reading_list -%}
+    <li>
+      <a href="{{ article.source }}">{{ article.title }}</a>
+      <small>[{{ article.date | date: "%b %-d, %Y" }}]</small>
+    </li>
+  {%- endfor -%}
+</ul>
