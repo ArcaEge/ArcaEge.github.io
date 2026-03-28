@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_interesting/2026-03-26-x86css.md",
+                "file": "_interesting/2026-03-28-sslh.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-26-x86css"
+              "title": "2026-03-28-sslh"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_interesting/2026-03-26-x86css.md",
+                "file": "_interesting/2026-03-28-sslh.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-03-26-x86css"
+              "title": "Outline of 2026-03-28-sslh"
             }
           }
         ],
@@ -184,10 +184,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a6546819e1810acb",
+  "active": "f54af473a3b00d1f",
   "lastOpenFiles": [
-    "_interesting/2026-03-11-trenchbroom.md",
     "_interesting/2026-03-26-x86css.md",
+    "_interesting/2026-03-28-sslh.md",
+    "_interesting/2026-03-11-trenchbroom.md",
     "_readinglist/2026-03-22-trenchbroom.md",
     "_site/readinglist/2026-03-22-trenchbroom.html",
     "_site/readinglist/2026-03-11-trenchbroom.html",
@@ -220,7 +221,6 @@
     "_projects/2025-09-10-embedded-engine.md",
     "_projects/2025-09-20-website.md",
     "_projects/2025-10-05-coin3d.md",
-    "_projects/2025-06-30-day-progress.md",
-    "_interesting/2025-12-02-shopify-sales.md"
+    "_projects/2025-06-30-day-progress.md"
   ]
 }
