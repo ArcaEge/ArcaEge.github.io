@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_readinglist/2026-04-01-is-anybody-else-bored-of-talking-about-ai.md",
+                "file": "_interesting/2026-04-22-mc1960.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-01-is-anybody-else-bored-of-talking-about-ai"
+              "title": "2026-04-22-mc1960"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_readinglist/2026-04-01-is-anybody-else-bored-of-talking-about-ai.md",
+                "file": "_interesting/2026-04-22-mc1960.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-04-01-is-anybody-else-bored-of-talking-about-ai"
+              "title": "Outline of 2026-04-22-mc1960"
             }
           }
         ],
@@ -186,9 +186,10 @@
   },
   "active": "f54af473a3b00d1f",
   "lastOpenFiles": [
-    "_readinglist/2026-03-22-being-john-rawls.md",
-    "_readinglist/2026-04-01-is-anybody-else-bored-of-talking-about-ai.md",
     "_interesting/2026-03-28-sslh.md",
+    "_interesting/2026-04-22-mc1960.md",
+    "_readinglist/2026-04-01-is-anybody-else-bored-of-talking-about-ai.md",
+    "_readinglist/2026-03-22-being-john-rawls.md",
     "_interesting/2026-03-26-x86css.md",
     "_interesting/2026-03-11-trenchbroom.md",
     "_site/readinglist/2026-03-22-trenchbroom.html",
@@ -220,7 +221,6 @@
     "_projects/2025-11-30-construct.md",
     "_projects/2025-08-15-ESP32-CNC.md",
     "_projects/2025-09-10-embedded-engine.md",
-    "_projects/2025-09-20-website.md",
-    "_projects/2025-10-05-coin3d.md"
+    "_projects/2025-09-20-website.md"
   ]
 }
