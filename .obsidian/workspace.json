@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f616582deae57ba1",
+        "id": "f4b6f967dce96cc5",
         "type": "tabs",
         "children": [
           {
-            "id": "f54af473a3b00d1f",
+            "id": "442231d36d2aa8e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_interesting/2026-05-16-still-alive-on-controller.md",
+                "file": "_projects/2026-05-13-capacitor-450v.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-05-16-still-alive-on-controller"
+              "title": "2026-05-13-capacitor-450v"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_interesting/2026-05-16-still-alive-on-controller.md",
+                "file": "_projects/2026-05-13-capacitor-450v.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-05-16-still-alive-on-controller"
+              "title": "Outline of 2026-05-13-capacitor-450v"
             }
           }
         ],
@@ -184,10 +184,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f54af473a3b00d1f",
+  "active": "442231d36d2aa8e0",
   "lastOpenFiles": [
-    "_interesting/2026-04-22-mc1960.md",
+    "_projects/2025-11-30-construct.md",
+    "_projects/2026-05-13-capacitor-450v.md",
+    "_projects/2025-08-15-ESP32-CNC.md",
+    "_projects/2026-01-16-zvs-flyback.md",
+    "_projects/2025-10-05-coin3d.md",
+    "_projects/2025-09-20-website.md",
+    "_projects/2025-09-10-embedded-engine.md",
+    "_projects/2025-08-07-picobug.md",
+    "_projects/2025-06-30-flappy.md",
+    "_projects/2025-06-30-day-progress.md",
+    "_projects/2023-10-1-pen-plotter.md",
+    "_projects/2020-03-17-coronavirus-counter.md",
+    "assets/images/projects/capacitor-250v.jpg",
+    "assets/images/projects/capacitor-450v.png",
     "_interesting/2026-05-16-still-alive-on-controller.md",
+    "_interesting/2026-04-22-mc1960.md",
     "_interesting/2026-03-28-sslh.md",
     "_readinglist/2026-04-01-is-anybody-else-bored-of-talking-about-ai.md",
     "_readinglist/2026-03-22-being-john-rawls.md",
@@ -209,18 +223,6 @@
     "index.md",
     "about.md",
     "_interesting/2025-08-10-consumer-rights-wiki.md",
-    "_interesting/2026-02-18-learn-x-in-y-minutes.md",
-    "_interesting/2026-02-12-making-software.md",
-    "_interesting/2026-02-08-digital-iris.md",
-    "_interesting/2026-01-24-kurrat.md",
-    "_interesting/2025-12-27-overenginee-ring.md",
-    "hc-magazine-2025.md",
-    "_projects/2025-06-30-flappy.md",
-    "_projects/2025-08-07-picobug.md",
-    "_projects/2026-01-16-zvs-flyback.md",
-    "_projects/2023-10-1-pen-plotter.md",
-    "_projects/2025-11-30-construct.md",
-    "_projects/2025-08-15-ESP32-CNC.md",
-    "_projects/2025-09-10-embedded-engine.md"
+    "_interesting/2026-02-18-learn-x-in-y-minutes.md"
   ]
 }
