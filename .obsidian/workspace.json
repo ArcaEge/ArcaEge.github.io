@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_projects/2026-05-13-capacitor-450v.md",
-                "mode": "source",
+                "file": "_readinglist/2026-05-19-cognitive-load.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-05-13-capacitor-450v"
+              "title": "2026-05-19-cognitive-load"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_projects/2026-05-13-capacitor-450v.md",
+                "file": "_readinglist/2026-05-19-cognitive-load.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-05-13-capacitor-450v"
+              "title": "Outline of 2026-05-19-cognitive-load"
             }
           }
         ],
@@ -186,8 +186,10 @@
   },
   "active": "442231d36d2aa8e0",
   "lastOpenFiles": [
-    "_projects/2025-11-30-construct.md",
+    "_readinglist/2026-04-01-is-anybody-else-bored-of-talking-about-ai.md",
+    "_readinglist/2026-05-19-cognitive-load.md",
     "_projects/2026-05-13-capacitor-450v.md",
+    "_projects/2025-11-30-construct.md",
     "_projects/2025-08-15-ESP32-CNC.md",
     "_projects/2026-01-16-zvs-flyback.md",
     "_projects/2025-10-05-coin3d.md",
@@ -203,7 +205,6 @@
     "_interesting/2026-05-16-still-alive-on-controller.md",
     "_interesting/2026-04-22-mc1960.md",
     "_interesting/2026-03-28-sslh.md",
-    "_readinglist/2026-04-01-is-anybody-else-bored-of-talking-about-ai.md",
     "_readinglist/2026-03-22-being-john-rawls.md",
     "_interesting/2026-03-26-x86css.md",
     "_interesting/2026-03-11-trenchbroom.md",
@@ -222,7 +223,6 @@
     "_interesting/2026-03-07-tesla-coil-lightning.md",
     "index.md",
     "about.md",
-    "_interesting/2025-08-10-consumer-rights-wiki.md",
-    "_interesting/2026-02-18-learn-x-in-y-minutes.md"
+    "_interesting/2025-08-10-consumer-rights-wiki.md"
   ]
 }
