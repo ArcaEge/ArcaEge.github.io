@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_projects/2026-06-12-capacitor-alarm-clock.md",
-                "mode": "preview",
+                "file": "_interesting/2026-06-14-qalculate.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-06-12-capacitor-alarm-clock"
+              "title": "2026-06-14-qalculate"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_projects/2026-06-12-capacitor-alarm-clock.md",
+                "file": "_interesting/2026-06-14-qalculate.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-06-12-capacitor-alarm-clock"
+              "title": "Outline of 2026-06-14-qalculate"
             }
           }
         ],
@@ -186,8 +186,9 @@
   },
   "active": "7d8146f34480b4d8",
   "lastOpenFiles": [
-    "_projects/2026-05-13-capacitor-450v.md",
     "_projects/2026-06-12-capacitor-alarm-clock.md",
+    "_interesting/2026-06-14-qalculate.md",
+    "_projects/2026-05-13-capacitor-450v.md",
     "_readinglist/2026-05-19-cognitive-load.md",
     "_readinglist/2026-04-01-is-anybody-else-bored-of-talking-about-ai.md",
     "_projects/2025-11-30-construct.md",
@@ -222,7 +223,6 @@
     "_interesting/2026-03-11-lorentz-plasma-cannon.md",
     "_interesting/2026-03-11-how-did-i-get-here.md",
     "_interesting/2026-03-07-tesla-coil-lightning.md",
-    "index.md",
-    "about.md"
+    "index.md"
   ]
 }
