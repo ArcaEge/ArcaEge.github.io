@@ -1,13 +1,13 @@
 ---
 layout: project
 title: Construct
-description: The website for a Hack Club 3D printing event!
+description: A Hack Club CAD modelling program!
 ---
-The site for an event I'm running with Hack Club, where you spend 40h making CAD projects and get a 3D printer in return! I'm one of the organisers for the event and was responsible for making the site.
+The site for a program I ran with Hack Club, where teens spent 40 hours making CAD projects and got a 3D printer in return! I was the lead organiser for the program and was responsible for building the site as well.
 
-I used SvelteKit along with Drizzle for the site, worked pretty well in my opinion. Next time I'd probably use Rails though since it just speeds up the development process a lot, but I do like the flexibility Svelte gives.
+In total, we had around 10,000h of projects submitted, with ~750 participants. We shipped 3D printers to almost 70 teenagers across the globe!
 
 ### Links
 
-- [GitHub repository](https://github.com/hackclub/construct) (yes that's a Hack Club official repo yay!)
+- [GitHub repository](https://github.com/hackclub/construct)
 - [Demo link](https://construct.hackclub.com)
