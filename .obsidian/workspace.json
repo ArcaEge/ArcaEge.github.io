@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_projects/2025-11-30-construct.md",
+                "file": "_interesting/2026-07-25-scanwheel.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-11-30-construct"
+              "title": "2026-07-25-scanwheel"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_projects/2025-11-30-construct.md",
+                "file": "_interesting/2026-07-25-scanwheel.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-11-30-construct"
+              "title": "Outline of 2026-07-25-scanwheel"
             }
           }
         ],
@@ -186,12 +186,14 @@
   },
   "active": "7d8146f34480b4d8",
   "lastOpenFiles": [
+    "_interesting/2026-07-27-ethernet-switch-asic.md",
+    "_interesting/2026-07-25-scanwheel.md",
     "_interesting/2026-06-14-qalculate.md",
+    "_projects/2025-11-30-construct.md",
     "_projects/2026-06-12-capacitor-alarm-clock.md",
     "_projects/2026-05-13-capacitor-450v.md",
     "_readinglist/2026-05-19-cognitive-load.md",
     "_readinglist/2026-04-01-is-anybody-else-bored-of-talking-about-ai.md",
-    "_projects/2025-11-30-construct.md",
     "_projects/2025-08-15-ESP32-CNC.md",
     "_projects/2026-01-16-zvs-flyback.md",
     "_projects/2025-10-05-coin3d.md",
@@ -221,8 +223,6 @@
     "_readinglist",
     "_site/reading-list.html",
     "_interesting/2026-03-11-lorentz-plasma-cannon.md",
-    "_interesting/2026-03-11-how-did-i-get-here.md",
-    "_interesting/2026-03-07-tesla-coil-lightning.md",
-    "index.md"
+    "_interesting/2026-03-11-how-did-i-get-here.md"
   ]
 }
