@@ -11,14 +11,12 @@
             "id": "7d8146f34480b4d8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "_interesting/2026-09-14-timevault.md",
-                "mode": "source",
-                "source": true
+                "file": "assets/images/buttons/kai.png"
               },
-              "icon": "lucide-file",
-              "title": "2026-09-14-timevault"
+              "icon": "lucide-image",
+              "title": "kai"
             }
           }
         ]
@@ -142,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_interesting/2026-09-14-timevault.md",
+                "file": "assets/images/buttons/kai.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -186,8 +184,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aacd20e1d065b8cb",
+  "active": "a6546819e1810acb",
   "lastOpenFiles": [
+    "_interesting/2026-09-14-timevault.md",
+    "assets/images/buttons/kai.png",
     "_site/readinglist/2026-08-01-the-project-of-software-is-complete.html",
     "_site/readinglist/2026-05-19-cognitive-load.html",
     "_site/readinglist/2026-04-01-is-anybody-else-bored-of-talking-about-ai.html",
@@ -198,11 +198,9 @@
     "_site/interesting/2026-06-14-qalculate.html",
     "_site/interesting/2026-05-16-still-alive-on-controller.html",
     "_site/interesting/2026-04-22-mc1960.html",
-    "_site/interesting/2026-03-28-sslh.html",
     "_site/assets/images/projects/capacitor-250v.jpg",
     "_readinglist/2026-08-01-the-project-of-software-is-complete.md",
     "_interesting/2026-07-27-ethernet-switch-asic.md",
-    "_interesting/2026-09-14-timevault.md",
     "_projects/2026-07-29-creakwork12.md",
     "_interesting/2026-07-25-scanwheel.md",
     "_interesting/2026-06-14-qalculate.md",
